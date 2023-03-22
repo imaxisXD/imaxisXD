@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abhishek
 - 👀 I’m interested in Frontend and real time collabration digital products 
--     For example chroniclehq [https://chroniclehq.com]
-- 🌱 I’m currently NextJS, Socket.io while building 
--     Typing Warrior, know more about it here [https://github.com/imaxisXD/typing-warrior]
+-     For example chroniclehq [https://chroniclehq.com], do check them out.
+- 🌱 I’m currently learning NextJS, Socket.io while building 
+-     **Typing Warrior**, know more about it here [https://github.com/imaxisXD/typing-warrior]
 - 🎯 My 2023 goal to join **chronicelhq** [https://chroniclehq.com]
 - 📫 How to reach me sunny735084@gmail.com
 
