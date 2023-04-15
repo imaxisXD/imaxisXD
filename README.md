@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Frontend and real time collabration digital products 
 -     For example chroniclehq [https://chroniclehq.com], do check them out.
-- 🌱 I’m currently learning NextJS, Socket.io while building 
+- 🌱 I’m currently Building with NextJS, Socket.io, Typescript while building 
 -     Typing Warrior, know more about it here [https://github.com/imaxisXD/typing-warrior]
 
 - 🎯 **My 2023 goal to join **chronicelhq** [https://chroniclehq.com]**
