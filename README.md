@@ -5,7 +5,6 @@
 - 🌱 I’m currently Building with NextJS, Socket.io, Typescript while building 
 -     Typing Warrior, know more about it here [https://github.com/imaxisXD/typing-warrior]
 
-- 🎯 **My 2023 goal to join **chronicelhq** [https://chroniclehq.com]**
 
 - 📫 How to reach me sunny735084@gmail.com
 
