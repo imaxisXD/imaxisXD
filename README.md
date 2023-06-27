@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abhishek
 
 - 👀 I’m interested in Frontend and real time collabration digital products 
--     
 - 🌱 I’m currently Building with NextJS, Socket.io, Typescript while building 
 -     Typing Warrior, know more about it here [https://github.com/imaxisXD/typing-warrior]
 
