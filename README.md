@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Abhishek
 
-- 👀 I’m interested in Frontend and real time collabration digital products 
+- 👀 I’m interested in Frontend and real-time collaboration digital products 
 - 🌱 I’m currently Building with NextJS, Socket.io, Typescript while building 
--     Typing Warrior, know more about it here [https://github.com/imaxisXD/typing-warrior]
+-     Present App, know more about it here [https://www.trypresentapp.com]
+-     In short, the app aims to automate the whole creator/influencer marketing. So no need for manual work to leverage creator/influencer marketing.
 
 
 - 📫 How to reach me sunny735084@gmail.com
